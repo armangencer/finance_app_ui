@@ -1,16 +1,18 @@
-# finance_app_flutter
+<h1 align="center">Hi 👋, I'm Arman</h1>
+<h3 align="center">Flutter Front-End developer from Turkey</h3>
 
-A new Flutter project.
+- 💬 Ask me about **gencer.arman@hotmail.com**
 
-## Getting Started
+- 📫 How to reach me **gencer.arman@hotmail.com**
 
-This project is a starting point for a Flutter application.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/arman.gencer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="arman.gencer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arman-gen%c3%a7er-71a058182/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="https://www.linkedin.com/in/arman-gen%c3%a7er-71a058182/" height="30" width="40" /></a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/armangencer/finance_app_ui/blob/master/assets/images/preview.jpg" alt="Preview">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
